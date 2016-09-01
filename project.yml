@@ -1,7 +1,7 @@
 project:
-    machine_name: blted8
-    prefix: BLT
-    human_name: 'BLTed 8'
+    machine_name: lshtm
+    prefix: LSHTM
+    human_name: 'LSHTM'
     profile:
         name: lightning
         contrib: true
